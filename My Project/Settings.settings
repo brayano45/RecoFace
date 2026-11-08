@@ -1,0 +1,66 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="LBPH_Threshold" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">70</Value>
+    </Setting>
+    <Setting Name="ImagesPerStudent" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="TrainingPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TrainingImages</Value>
+    </Setting>
+    <Setting Name="ModelPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data\models</Value>
+    </Setting>
+    <Setting Name="MinFaceSize" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="DB_Host" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="DB_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">gestion_presence</Value>
+    </Setting>
+    <Setting Name="DB_User" Type="System.String" Scope="User">
+      <Value Profile="(Default)">root</Value>
+    </Setting>
+    <Setting Name="DB_Pass" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="P1_Start" Type="System.String" Scope="User">
+      <Value Profile="(Default)">07:30</Value>
+    </Setting>
+    <Setting Name="P1_End" Type="System.String" Scope="User">
+      <Value Profile="(Default)">09:30</Value>
+    </Setting>
+    <Setting Name="P2_Start" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10:15</Value>
+    </Setting>
+    <Setting Name="P2_End" Type="System.String" Scope="User">
+      <Value Profile="(Default)">11:00</Value>
+    </Setting>
+    <Setting Name="P3_Start" Type="System.String" Scope="User">
+      <Value Profile="(Default)">13:05</Value>
+    </Setting>
+    <Setting Name="P3_End" Type="System.String" Scope="User">
+      <Value Profile="(Default)">14:00</Value>
+    </Setting>
+    <Setting Name="P4_Start" Type="System.String" Scope="User">
+      <Value Profile="(Default)">15:00</Value>
+    </Setting>
+    <Setting Name="P4_End" Type="System.String" Scope="User">
+      <Value Profile="(Default)">16:30</Value>
+    </Setting>
+    <Setting Name="PDF_Path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">pdf_reports</Value>
+    </Setting>
+    <Setting Name="DarkMode" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="EnableLogs" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
